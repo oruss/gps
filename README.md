@@ -1,8 +1,13 @@
 Material necesario para dispositivo GPS open source
+
 Arduino pro micro(por su velocidad de procesamiento a 16 Mhz y su versatil tamaño).
+
 Modulo GPS neo6m v2(permite obtener: longitud, latitud, altitud, hora y fecha).
+
 Modulo SIM800L(establece conexión a una red especificada por el usuario para la comunicación).
+
 Tarjeta SIM sin PIN lock(permite el uso de datos para entablar comunicaciones mediante operadores distintos).
+
 Antena GPS y GSMR(permiten a los modulos sim800l y neo6m v2 conectarse a sus respectivos dispositivos).
 
 Arduino pro micro es una tarjeta de desarrollo basada en un sistema de bootloader que permite
