@@ -342,7 +342,7 @@ String Day;
     url += ",";
     url += positionA2;
     url += ",";
-    url += r;
+    url += n;
     url += ",";
     url += bat;
     url += ",";
